@@ -1,0 +1,17 @@
+{
+  "name": "simple-tcp-service",
+  "version": "0.0.1",
+  "description": "Simple TCP service using Node.js",
+  "main": "lib/index",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "repository": "https://github.com/ysden123/simple-tcp-service.git",
+  "author": "Yuriy Stul",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
