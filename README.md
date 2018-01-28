@@ -1,6 +1,7 @@
 # simple-tcp-service
 Simple TCP service using Node.js
-![Travis status](https://secure.travis-ci.org/ysden123/simple-tcp-service.png)
+![Travis status](https://travis-ci.org/ysden123/simple-tcp-service.svg?branch=master)
+                 
 
 ## Running test
  1. Run startSimpleServer
